@@ -1,0 +1,187 @@
+[
+  {
+    "name": "ThemeProvider",
+    "file": "client/src/providers/ThemeProvider.tsx",
+    "imports": []
+  },
+  {
+    "name": "slider",
+    "file": "client/src/components/ui/slider.tsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "input-group",
+    "file": "client/src/components/ui/input-group.tsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "popover",
+    "file": "client/src/components/ui/popover.tsx",
+    "imports": [
+      "@chakra-ui/react",
+      "./close-button"
+    ]
+  },
+  {
+    "name": "radio",
+    "file": "client/src/components/ui/radio.tsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "field",
+    "file": "client/src/components/ui/field.tsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "drawer",
+    "file": "client/src/components/ui/drawer.tsx",
+    "imports": [
+      "@chakra-ui/react",
+      "./close-button"
+    ]
+  },
+  {
+    "name": "tooltip",
+    "file": "client/src/components/ui/tooltip.tsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "close-button",
+    "file": "client/src/components/ui/close-button.tsx",
+    "imports": [
+      "@chakra-ui/react",
+      "react-icons/lu"
+    ]
+  },
+  {
+    "name": "avatar",
+    "file": "client/src/components/ui/avatar.tsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "dialog",
+    "file": "client/src/components/ui/dialog.tsx",
+    "imports": [
+      "@chakra-ui/react",
+      "./close-button"
+    ]
+  },
+  {
+    "name": "color-mode",
+    "file": "client/src/components/ui/color-mode.tsx",
+    "imports": [
+      "@chakra-ui/react",
+      "next-themes",
+      "react-icons/lu"
+    ]
+  },
+  {
+    "name": "checkbox",
+    "file": "client/src/components/ui/checkbox.tsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "dialog",
+    "file": "src/components/ui/dialog.jsx",
+    "imports": [
+      "@chakra-ui/react",
+      "./close-button"
+    ]
+  },
+  {
+    "name": "avatar",
+    "file": "src/components/ui/avatar.jsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "close-button",
+    "file": "src/components/ui/close-button.jsx",
+    "imports": [
+      "@chakra-ui/react",
+      "react-icons/lu"
+    ]
+  },
+  {
+    "name": "checkbox",
+    "file": "src/components/ui/checkbox.jsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "color-mode",
+    "file": "src/components/ui/color-mode.jsx",
+    "imports": [
+      "@chakra-ui/react",
+      "next-themes",
+      "react-icons/lu"
+    ]
+  },
+  {
+    "name": "radio",
+    "file": "src/components/ui/radio.jsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "popover",
+    "file": "src/components/ui/popover.jsx",
+    "imports": [
+      "@chakra-ui/react",
+      "./close-button"
+    ]
+  },
+  {
+    "name": "input-group",
+    "file": "src/components/ui/input-group.jsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "slider",
+    "file": "src/components/ui/slider.jsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "tooltip",
+    "file": "src/components/ui/tooltip.jsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  },
+  {
+    "name": "drawer",
+    "file": "src/components/ui/drawer.jsx",
+    "imports": [
+      "@chakra-ui/react",
+      "./close-button"
+    ]
+  },
+  {
+    "name": "field",
+    "file": "src/components/ui/field.jsx",
+    "imports": [
+      "@chakra-ui/react"
+    ]
+  }
+]

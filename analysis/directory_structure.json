@@ -1,0 +1,394 @@
+{
+  "backend": {
+    "backend.zip": 21911471,
+    "frontend": {
+      "public": {
+        "favicon.ico": 3870,
+        "index.html": 1705,
+        "logo512.png": 9664,
+        "manifest.json": 492,
+        "robots.txt": 67,
+        "logo192.png": 5347
+      },
+      ".gitignore": 310,
+      "package-lock.json": 654626,
+      "package.json": 685,
+      "src": {
+        "reportWebVitals.js": 364,
+        "App.css": 564,
+        "index.js": 853,
+        "index.css": 366,
+        "serviceWorkerRegistration.js": 5064,
+        "App.test.js": 273,
+        "service-worker.js": 2837,
+        "setupTests.js": 241,
+        "logo.svg": 2671,
+        "App.js": 555
+      }
+    },
+    "backend": {
+      "changeid.py": 1871,
+      "backend.zip": 84120,
+      ".sequelizerc": 323,
+      ".gitkeep": 0,
+      "github_raw_links.txt": 3338,
+      "README.md": 0,
+      "package-lock.json": 307780,
+      "package.json": 1050,
+      ".env": 822,
+      "b.py": 2235,
+      "eslint.config.mjs": 563,
+      "src": {
+        "migrations": {
+          "20250227194423-add-device-status-fields.js": 855,
+          "20250227234025-add-missing-fields-to-devices.js": 839,
+          "20250216220302-create-logs-table.js": 1008,
+          "20250202213426-create-device.js": 1135,
+          "20250227235956-add-idKey-to-devices.js": 319
+        },
+        "config": {
+          "database.js": 801,
+          ".gitkeep": 0,
+          "config.js": 1683
+        },
+        ".gitkeep": 0,
+        "middlewares": {
+          "authMiddleware.js": 114,
+          ".gitkeep": 0,
+          "deviceAuth.js": 1166
+        },
+        "models": {
+          "device.js": 1141,
+          ".gitkeep": 0,
+          "index.js": 516,
+          "logs.js": 795
+        },
+        "__tests__": {
+          "device.test.js": 953,
+          "models": {
+            "device.test.js": 1879
+          }
+        },
+        ".env": 409,
+        "controllers": {
+          "deviceController.js": 12082,
+          "networkController.js": 6475,
+          ".gitkeep": 0,
+          "systemStatusController.js": 34,
+          "softwareController.js": 3187,
+          "authController.js": 1167
+        },
+        "routes": {
+          "authRoutes.js": 318,
+          ".gitkeep": 0,
+          "deviceRoutes.js": 1111,
+          "softwareRoutes.js": 248,
+          "networkRoutes.js": 410
+        },
+        "app.js": 1917,
+        "services": {
+          ".gitkeep": 0
+        }
+      }
+    },
+    "agent": {
+      "index.html": 1041,
+      "config": {
+        "settings.json": 0,
+        "config.json": 135,
+        "advanced.js": 3982,
+        "index.js": 5129
+      },
+      "tests": {
+        "security-test.js": 0,
+        "network-test.js": 222,
+        "command-test.js": 623,
+        "api-test.js": 346,
+        "system-test.js": 322
+      },
+      "webpack.config.js": 461,
+      "change.sh": 501,
+      "logs": {
+        "error-logs.js": 531,
+        "agent-logger.js": 417
+      },
+      "package-lock.json": 489857,
+      "package.json": 1248,
+      ".env": 465,
+      "scripts": {
+        "uninstall.sh": 0,
+        "install.sh": 118,
+        "install_dependencies.sh": 1570,
+        "update.sh": 0
+      },
+      "tsconfig.json": 349,
+      "testdisk.log": 851,
+      "src": {
+        "agent-service.js": 553,
+        "agent-commands.js": 425,
+        "command-test.js": 272,
+        "command-handler.js": 425,
+        "utils": {
+          "validation.ts": 3620,
+          "logger.js": 550,
+          "encryption.js": 884
+        },
+        "main.js": 922,
+        "index.ts": 32,
+        "agent-communication.js": 1025,
+        "services": {
+          "security.js": 2870,
+          "network-agent.js": 9971,
+          "system-info.js": 604,
+          "agent-status.js": 551,
+          "device-manager.js": 792,
+          "remote-access.js": 686,
+          "agent-setup.js": 654
+        }
+      }
+    },
+    "project_structure.txt": 5230,
+    "README.md": 25,
+    "git.sh": 2949,
+    "setup_project.sh": 1010,
+    ".gitignore": 13,
+    "package-lock.json": 51461,
+    "package.json": 415,
+    ".github": {
+      "workflows": {
+        "main.yml": 1485
+      }
+    },
+    "client-electron-files.txt": 0,
+    "client-electron": {
+      "project_structure.txt": 255806,
+      "README.md": 0,
+      "public": {
+        "index.html": 687,
+        "styles.css": 328
+      },
+      ".gitignore": 0,
+      "package-lock.json": 883154,
+      "package.json": 1468,
+      "webpack.config.cjs": 1128,
+      "tsconfig.json": 567,
+      "src": {
+        "index.tsx": 597,
+        "App.tsx": 5505,
+        "renderer": {
+          "index.tsx": 476,
+          "index.html": 305,
+          "styles.css": 328
+        },
+        "main.ts": 773,
+        "styles.css": 687,
+        "utils": {
+          "helpers.ts": 166
+        },
+        "ipcHandler.ts": 1613,
+        "types.ts": 876,
+        "components": {
+          "Navbar.tsx": 225,
+          "Dashboard.tsx": 6323,
+          "Sidebar.tsx": 228
+        },
+        "preload.ts": 1717,
+        "preload": {
+          "preload.ts": 463
+        },
+        "pages": {
+          "Settings.tsx": 261,
+          "SettingsPage.tsx": 3121,
+          "UsersPage.tsx": 3463,
+          "RemoteControl.tsx": 306,
+          "DevicesPage.tsx": 866,
+          "Performance.tsx": 290
+        },
+        "services": {
+          "validation.ts": 2801,
+          "deviceService.ts": 1647,
+          "authService.ts": 2184,
+          "api.ts": 2541,
+          "UserService.ts": 1043
+        },
+        "store.ts": 3080
+      }
+    },
+    ".vscode": {
+      "settings.json": 89,
+      "extensions.json": 64
+    },
+    "client": {
+      "README.old.md": 2117,
+      "README.md": 2117,
+      "public": {
+        "favicon.ico": 3870,
+        "index.html": 1721,
+        "logo512.png": 9664,
+        "manifest.json": 492,
+        "robots.txt": 67,
+        "logo192.png": 5347
+      },
+      ".gitignore": 620,
+      "package-lock.json": 53485,
+      "package.json": 977,
+      "tsconfig.json": 340,
+      "src": {
+        "index.tsx": 554,
+        "App.tsx": 556,
+        "reportWebVitals.js": 1557,
+        "App.test.tsx": 273,
+        "App.css": 564,
+        "index.js": 894,
+        "index.css": 366,
+        "setupTests.ts": 241,
+        "reportWebVitals.ts": 425,
+        "App.test.js": 567,
+        "setupTests.js": 320,
+        "logo.svg": 2632,
+        "App.js": 785
+      }
+    },
+    ".sourcery.yaml": 1850
+  },
+  "client": {
+    "README.md": 13,
+    "github_file_links.txt": 3293,
+    "file.py": 1210,
+    ".gitignore": 13,
+    "client": {
+      "down.py": 1483,
+      "README.md": 2117,
+      "public": {
+        "favicon.ico": 3870,
+        "index.html": 288,
+        "logo512.png": 9664,
+        "manifest.json": 492,
+        "robots.txt": 67,
+        "logo192.png": 5347
+      },
+      ".gitignore": 310,
+      "package-lock.json": 825738,
+      "package.json": 1696,
+      ".env": 74,
+      "tsconfig.json": 609,
+      "folder.sh": 1143,
+      "src": {
+        "index.tsx": 243,
+        "App.tsx": 1127,
+        "main.ts": 567,
+        "App.test.tsx": 273,
+        "providers": {
+          "ThemeProvider.tsx": 1843
+        },
+        "setupTests.ts": 241,
+        "reportWebVitals.ts": 425,
+        "styles": {
+          "global.css": 916
+        },
+        "components": {
+          "ui": {
+            "slider.tsx": 2491,
+            "input-group.tsx": 1551,
+            "popover.tsx": 1665,
+            "radio.tsx": 808,
+            "field.tsx": 984,
+            "drawer.tsx": 1639,
+            "tooltip.tsx": 1264,
+            "close-button.tsx": 508,
+            "avatar.tsx": 2290,
+            "dialog.tsx": 1717,
+            "color-mode.tsx": 2680,
+            "checkbox.tsx": 859,
+            "provider.tsx": 342
+          },
+          "DevicesList.tsx": 2511,
+          "SoftwareInstall.tsx": 3281,
+          "RemoteCommand.tsx": 2447,
+          "Sidebar.tsx": 984
+        },
+        "preload.ts": 190,
+        "theme.ts": 277,
+        "react-app-env.d.ts": 40,
+        "pages": {
+          "SoftwareManagement.tsx": 1038
+        },
+        "logo.svg": 2632,
+        "services": {
+          "api.ts": 2757
+        },
+        "store.ts": 1473
+      }
+    },
+    "src": {
+      "components": {
+        "ui": {
+          "dialog.jsx": 1538,
+          "avatar.jsx": 1582,
+          "close-button.jsx": 521,
+          "provider.jsx": 284,
+          "checkbox.jsx": 602,
+          "color-mode.jsx": 2049,
+          "radio.jsx": 586,
+          "popover.jsx": 1435,
+          "input-group.jsx": 991,
+          "slider.jsx": 2968,
+          "tooltip.jsx": 925,
+          "drawer.jsx": 1415,
+          "field.jsx": 695
+        }
+      },
+      "App.js": 0
+    }
+  },
+  "agent_macos": {
+    "logs.txt": 0,
+    "ui": {
+      "styles.css": 2008,
+      "menu.html": 3164
+    },
+    "github_raw_links.txt": 1198,
+    "README.md": 14,
+    "mac": {
+      "osHandler.js": 160,
+      "trayManager.js": 4748,
+      "assets": {
+        "macOS_icon_styled_Normal.svg": 24705,
+        "macOS_icon_styled_Dark_Normal.png": 444,
+        "icon.png": 663664,
+        "macOS_icon_styled_Normal.png": 412,
+        "macOS_icon_styled_Dark_Normal.svg": 26349,
+        "macOS_icon_styled_Dark_Normal_2x.png": 1206,
+        "macOS_icon_styled_Normal_2x.png": 1116,
+        "macOS_icon_styled_Normal_2x.svg": 96172,
+        "macOS_icon_styled_Dark_Normal_2x.svg": 102550
+      }
+    },
+    "main.js": 7169,
+    "common": {
+      "agentConfig.json": 82,
+      "logger.js": 1322,
+      "credentialManager.js": 4495,
+      "api-key-checker.js": 1593,
+      "backendClient.js": 7925
+    },
+    "file.py": 1896,
+    "logs": {
+      "agent-2025-03-03.log": 117883,
+      "agent-2025-03-02.log": 64891,
+      "agent-2025-02-27.log": 21895,
+      "agent-2025-02-28.log": 36095
+    },
+    ".gitignore": 26,
+    "package-lock.json": 374025,
+    "package.json": 1112,
+    ".env": 789,
+    ".gitattributes": 327,
+    "change.py": 1886,
+    "services": {
+      "installService.js": 3662,
+      "statusService.js": 1945,
+      "commandService.js": 1433
+    }
+  }
+}

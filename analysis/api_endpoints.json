@@ -1,0 +1,72 @@
+[
+  {
+    "method": "POST",
+    "path": "/token",
+    "file": "backend/src/routes/authRoutes.js"
+  },
+  {
+    "method": "POST",
+    "path": "/register",
+    "file": "backend/src/routes/deviceRoutes.js"
+  },
+  {
+    "method": "GET",
+    "path": "/",
+    "file": "backend/src/routes/deviceRoutes.js"
+  },
+  {
+    "method": "DELETE",
+    "path": "/:idKey",
+    "file": "backend/src/routes/deviceRoutes.js"
+  },
+  {
+    "method": "POST",
+    "path": "/command",
+    "file": "backend/src/routes/deviceRoutes.js"
+  },
+  {
+    "method": "POST",
+    "path": "/install",
+    "file": "backend/src/routes/deviceRoutes.js"
+  },
+  {
+    "method": "GET",
+    "path": "/status/:idKey",
+    "file": "backend/src/routes/deviceRoutes.js"
+  },
+  {
+    "method": "PUT",
+    "path": "/status/:idKey",
+    "file": "backend/src/routes/deviceRoutes.js"
+  },
+  {
+    "method": "PUT",
+    "path": "/update/:idKey",
+    "file": "backend/src/routes/deviceRoutes.js"
+  },
+  {
+    "method": "POST",
+    "path": "/install",
+    "file": "backend/src/routes/softwareRoutes.js"
+  },
+  {
+    "method": "GET",
+    "path": "/available",
+    "file": "backend/src/routes/networkRoutes.js"
+  },
+  {
+    "method": "GET",
+    "path": "/status",
+    "file": "backend/src/routes/networkRoutes.js"
+  },
+  {
+    "method": "POST",
+    "path": "/configure",
+    "file": "backend/src/routes/networkRoutes.js"
+  },
+  {
+    "method": "POST",
+    "path": "/disconnect",
+    "file": "backend/src/routes/networkRoutes.js"
+  }
+]
